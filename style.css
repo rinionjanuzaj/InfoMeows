@@ -218,4 +218,9 @@ line-height: 2rem;
 grid-column-gap: 50px; 
 grid-row-gap: ;
 }
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+
        
