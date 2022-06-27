@@ -6,6 +6,11 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
      }
 
+.big {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
 .header{
     padding: 0 45px;
     background: #EF6C00;
@@ -113,6 +118,12 @@ line-height: 2rem;
     grid-column-gap: 45px;
     grid-row-gap: 45px;
 }
+
+.cats {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
 .cats h2{
     font-weight: 700;
     color:#000;
